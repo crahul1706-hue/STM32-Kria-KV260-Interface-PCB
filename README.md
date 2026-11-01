@@ -96,5 +96,10 @@ The current design is intended for educational, portfolio and engineering docume
 ### 3D PCB View
 ![3D PCB View](3D%20view.jpg)
 
-### Schematic Design
-![STM32-Kria KV260 Schematic](Schematic.png)
+
+###  Schematic Design and ERC Results
+![Schematic and ERC](Schematic%20and%20erc.jpg)
+
+### 2. PCB Layout and DRC Results
+![PCB Layout and DRC](PCB%20editor%20and%20DRC%20output.jpg)
+
