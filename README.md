@@ -88,3 +88,13 @@ The current design is intended for educational, portfolio and engineering docume
 
 - Verify KV260 Pmod pin assignments against official hardware documentation.
 - Perform hardware testing after fabrication.
+## Project Gallery
+
+### PCB Layout
+![PCB Layout](PCB%20layout.jpg)
+
+### 3D PCB View
+![3D PCB View](3D%20view.jpg)
+
+### PCB Editor and DRC Output
+![PCB Editor and DRC](PCB%20editor%20and%20DRC%20output.jpg)
